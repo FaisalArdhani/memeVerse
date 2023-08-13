@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is the repository for the Web Meme project. The project aims to create a platform for sharing and enjoying memes online. Users can register, post memes, like, comment, and more!
+This is the repository for the Web MemeVerse project. The project aims to create a platform for sharing and enjoying memes online. Users can register, post memes, like, comment, and more!
 
 ## Project Status
 
